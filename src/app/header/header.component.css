@@ -20,6 +20,7 @@ nav{
     background:#111414 ;
     top:0;
     left: 0;
+    z-index: 200px;
     height: 80px;
     width: 100%;
     
